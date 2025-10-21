@@ -1,4 +1,4 @@
-# Agentic AI Multi‑Agent System
+# Agentic AI: Multi‑Agent AI System
 
 This project demonstrates how to build a collaborative multi‑agent AI system **from scratch** using plain Python and Streamlit. Inspired by modern agentic patterns but deliberately lightweight, it features:
 
